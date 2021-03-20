@@ -1,0 +1,2 @@
+project_name: bodywork-ml-pipeline-project
+docker_image: bodyworkml/bodywork-core:latest
